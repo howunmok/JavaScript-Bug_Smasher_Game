@@ -1,4 +1,4 @@
-# JavaScript-Bug_Smasher_Game
+# JavaScript-Bug Smasher Game
 HTML5 mini game - Bug Smasher Game
 
 <p>Welcome to the <strong>"Bug Smasher Game"</strong>, a fun and challenging HTML5 mini-game that tests your reflexes and hand🖐️-eye👀 coordination. In this game, your objective is to smash as many bugs🐞 as possible to earn the highest score. Let's dive into the details of this exciting game:</p>
