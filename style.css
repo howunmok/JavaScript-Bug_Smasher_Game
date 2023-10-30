@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: ivory;
+  margin: 30px;
+}
+
+button {
+  height: 30px;
+  border-radius: 5px;
+  border-width: 0px;
+  width: 150px;
+  height: 40px;
+  box-shadow: 3px 3px 3px 3px #ccc;
+  font-size: 20px;
+}
+
+#title {
+  font-size: 30px;
+}
+
+#score {
+  font-size: 25px;
+}
