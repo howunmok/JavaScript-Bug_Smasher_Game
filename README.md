@@ -20,4 +20,4 @@ HTML5 mini game - Bug Smasher Game
 <p>Are you ready to test your reflexes and aim in the Bug Smasher Game?<br>
 Challenge yourself to beat your high score and see how many bugs you can smash.<br>
 Have fun and enjoy the thrill of this engaging mini-game!</p>
-<a href"https://bug-smasher-game.netlify.app/" target="_blank">Click here to play the game!<a>
+<a href="https://bug-smasher-game.netlify.app/" target="_blank">Click here to play the game!</a>
